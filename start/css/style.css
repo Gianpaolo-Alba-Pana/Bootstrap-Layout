@@ -1,0 +1,101 @@
+html{
+    font-family: OpenSans, sans-serif;
+}
+html h1, h2{
+    font-family: Raleway, sans-serif; 
+}
+
+/*body*/
+.row{
+    margin-top: 7em;
+}
+#home{
+    color: #14c871;
+}
+#greenBtn{
+    border: 0;
+    background-color: #14c871;
+}
+
+
+/*navbar*/
+.navbar {
+    font-family: Raleway, sans-serif;
+    font-weight: bold ;
+    font-size: large;
+}
+.navbar a{
+    margin-right: 7px;
+}
+
+#getStarted{
+    border: solid grey 1px;
+    border-radius: 5%;
+}
+
+/*icon*/
+i{
+    color: #14c871;
+    font-size: 1.5em;
+}
+/*list*/
+li{
+    list-style-type:none;
+}
+
+/*card*/
+.card{
+    border: none;
+}
+#card2 h3{
+    color: #14c871;
+    font-weight: bold;
+}
+
+/*call to action*/
+#callToAction{
+    background-color: #14c871;
+}
+
+/*team*/
+#team i{
+    color: grey;
+    font-size: 1em;
+}
+
+/*contact*/
+#mess{
+    height: 10em;
+}
+
+#cont1, #cont2{
+    border-top:solid #14c871 4px ;
+    border-bottom:solid #14c871 4px ;
+}
+
+/*footer*/
+#email{
+    width: 30em;
+}
+
+#footerI{
+    margin-right: 10px;
+    padding: 10px;
+    color: rgba(27, 27, 70, 0.5);
+    background-color: rgba(128, 128, 128, 0.151);
+}
+
+/*anchor*/
+.toTop {
+    padding: 1em;
+    position: fixed;
+    bottom: 10px;
+    right: 1em;
+    background-color:#14c871 ;
+    
+}
+.toTop i{
+    font-size: 1em;
+    color: white;
+    
+}
